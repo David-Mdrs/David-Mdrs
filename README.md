@@ -1,30 +1,29 @@
-<!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to my portfolio</h1></summary>
+    <summary><h1 style="display: inline-block">Bem-vindo ao meu portfólio</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
   
-  - ⚡ Hello! My name's David and i'm a dev.
+  - ⚡ Olá! Meu nome é David e sou um desenvolvedor.
 
-  - 💻 Computer technician from the Federal Institute of Paraíba - Santa Luzia Campus.
+  - 💻 Técnico em informática pelo Instituto Federal de Educação da Paraíba - Campus Santa Luzia.
     
-  - 👾 Computer engineering student from the Federal Institute of Paraíba - Campina Grande Campus.
+  - 👾 Estudante de Engenharia de Computação pelo Instituto Federal de Educação da Paraíba - Campus Campina Grande.
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in software and game development.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento de software.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary> 👨‍💻 More about me</summary>
+  <summary> 👨‍💻 Sobre mim </summary>
 
-- 💬 I'm 19 years old and from a small town in the Northeast of Brazil, last year I moved to Campina Grande to study Computer Engineering at university. I have intermediate English and have experience with Python, C and Data Analysis.
+- 💬 Tenho 19 anos e sou de uma pequena cidade do Nordeste no Brasil, ano passado me mudei para Campina Grande para cursar a Graduação em Engenharia de Computação. Tenho inglês intermediário e experiência com Python, C , C++ e Análise de Dados.
   
-- ☝️ I also interned during the IT technical course, which made me develop important skills such as creativity, communication and management of computer labs.
+- ☝️ Também estagiei durante o curso técnico em informática, o que me fez desenvolver habilidades importantes como criatividade, comunicação e gestão de laboratórios de informática.
 
-- 🌱 I like playing sports and exercising in general, it's always good to be outdoors. I also love games, series and films!
+- 🌱 Gosto de praticar esportes e exercícios em geral, é sempre bom estar ao ar livre. Também adoro jogos, séries, filmes e tecnologia!
 </details>
 
 ---
@@ -40,29 +39,29 @@
 
 <!-- Portfolio -->
 ## 📚 Portfolio:
-- [Snake Game - Data Structure](https://github.com/David-Mdrs/JogoDaCobrinha)
+**[Estrutura_de_Dados_C](https://github.com/David-Mdrs/Estrutura_de_Dados_C)**
 
 ---
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de programação</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://github.com/user-attachments/assets/9878e1fe-4a02-46cd-b92e-62d515040129">
   </div>
   
   <!-- Skills: Tools -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Intellij" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>Bibliotecas</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
