@@ -6,69 +6,57 @@
 <!-- Presentation -->
 <p>
   
-  - ⚡ Olá! Meu nome é David e sou um desenvolvedor.
+⚡ **Olá! Meu nome é David e sou um desenvolvedor.**
 
-  - 💻 Técnico em informática pelo Instituto Federal de Educação da Paraíba - Campus Santa Luzia.
+💻 **Técnico em informática pelo Instituto Federal de Educação da Paraíba - Campus Santa Luzia.**
     
-  - 👾 Estudante de Engenharia de Computação pelo Instituto Federal de Educação da Paraíba - Campus Campina Grande.
+👾 **Estudante de Engenharia de Computação pelo Instituto Federal de Educação da Paraíba - Campus Campina Grande.**
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento de software.
+🔭 **Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento de software.**
+
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary> 👨‍💻 Sobre mim </summary>
 
-- 💬 Tenho 19 anos e sou de uma pequena cidade do Nordeste no Brasil, ano passado me mudei para Campina Grande para cursar a Graduação em Engenharia de Computação. Tenho inglês intermediário e experiência com Python, C , C++ e Análise de Dados.
+💬 Tenho 19 anos e sou de uma pequena cidade do Nordeste no Brasil, ano passado me mudei para Campina Grande para cursar a Graduação em Engenharia de Computação. Tenho inglês intermediário e experiência com Python, C , C++ e Análise de Dados.
   
-- ☝️ Também estagiei durante o curso técnico em informática, o que me fez desenvolver habilidades importantes como criatividade, comunicação e gestão de laboratórios de informática.
+☝️ Também estagiei durante o curso técnico em informática, o que me fez desenvolver habilidades importantes como criatividade, comunicação e gestão de laboratórios de informática.
 
-- 🌱 Gosto de praticar esportes e exercícios em geral, é sempre bom estar ao ar livre. Também adoro jogos, séries, filmes e tecnologia!
+🌱 Gosto de praticar esportes e exercícios em geral, é sempre bom estar ao ar livre. Também adoro jogos, séries, filmes e tecnologia!
 </details>
 
 ---
 
-<!-- Links -->
+<!-- Redes e Contatos -->
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seuservidor)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/david_mdrs_?igsh=MTZycXgyMzVlc3BzNQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-medeiros-santos)
+
 
 <!-- GithubStats -->
 ![David-Mdrs GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Mdrs&show_icons=true&theme=gotham)
 
 ---
 
-<!-- Portfolio -->
-## 📚 Portfolio:
-**[Estrutura_de_Dados_C](https://github.com/David-Mdrs/Estrutura_de_Dados_C)**
+<!-- Tecnologias e Ferramentas -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![Linux Mint](https://img.shields.io/badge/LinuxMint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-00C300?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=plotly&logoColor=white)](https://seaborn.pydata.org/)
 
 ---
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de programação</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://github.com/user-attachments/assets/9878e1fe-4a02-46cd-b92e-62d515040129">
-  </div>
-  
-  <!-- Skills: Tools -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Pygame" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" alt="seaborn" width="40" height="40"/>
-  </div>
-
-  ---
 
   <!-- GIF -->
 <p align="left">
